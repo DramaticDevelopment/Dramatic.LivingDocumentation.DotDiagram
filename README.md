@@ -6,6 +6,8 @@ The Structurizr DotWriter uses the Java library io.github.livingdocumentation.Do
 
 I ported the LivingDocumentation DotDiagram to C#, quick and dirty.
 
+# References
+Inspiration https://github.com/LivingDocumentation/dot-diagram
 
 # License
 Bla bla, you're on your own. No support or liability for using this library.
